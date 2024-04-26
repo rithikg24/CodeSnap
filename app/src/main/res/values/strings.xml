@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeSnap</string>
+    <string name="capture">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="statement1">Capture the code or Select from gallery</string>
+    <string name="st2">UNFILLED MATERIAL BUTTON</string>
+    <string name="button">Button</string>
+    <string name="loading">loading</string>
+    <string name="todo">TODO</string>
+</resources>
